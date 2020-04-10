@@ -46,5 +46,8 @@ SCHEDULER_QUEUE_CLASS = 'scrapy_redis.queue.FifoQueue'
 13. 编写pipeline MongoPipeline类，将下载的数据保存至MongoDB数据库。   
 在settings中设置MONGO_URI值（mongodb的uri），设置MONGO_DATABASE值（数据库名）。
 
+# 项目运行方法
+执行执行 run.py 文件
+
 # 告示
 本代码仅作学习交流，切勿用于商业用途。如涉及侵权，请邮箱联系，会尽快删除。
