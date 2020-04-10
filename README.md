@@ -1,6 +1,10 @@
 # 项目介绍
 此项目用来爬取微博用户的公开信息，该项目以几个微博账户为起点，爬取他们各自的关注列表，爬取他们自己以及关注对象的所有微博。
 
+# 部分结果展示
+![](https://github.com/cyhleo/weibo/blob/master/image/weibo_info.png)
+![](https://github.com/cyhleo/weibo/blob/master/image/weibo_acc.png)
+
 # 项目说明
 1. 使用scrapy框架来编写爬虫程序
 
